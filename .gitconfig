@@ -1,0 +1,6 @@
+[user]
+	name = Erik J. Sturcke
+	email = esturcke@covode.org
+[alias]
+	unstage = reset HEAD --
+	last = log -1 HEAD
